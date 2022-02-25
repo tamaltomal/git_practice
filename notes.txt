@@ -1,4 +1,7 @@
+git status
 git init
 git add .
 git commit -m "some message"
 git push
+
+git clone repor_aaddreess
